@@ -1,0 +1,5 @@
+com\test\feign\ApplicationFeign.class
+com\test\feign\controller\DataFeignController.class
+com\test\feign\config\RabbitmqConfig.class
+com\test\feign\entity\Recevier.class
+com\test\feign\client\DataClient.class

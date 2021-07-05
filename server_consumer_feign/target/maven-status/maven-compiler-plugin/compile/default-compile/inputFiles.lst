@@ -1,0 +1,5 @@
+D:\workSpace\springCloud\spring-cloud-parent\server_consumer_feign\src\main\java\com\test\feign\ApplicationFeign.java
+D:\workSpace\springCloud\spring-cloud-parent\server_consumer_feign\src\main\java\com\test\feign\client\DataClient.java
+D:\workSpace\springCloud\spring-cloud-parent\server_consumer_feign\src\main\java\com\test\feign\entity\Recevier.java
+D:\workSpace\springCloud\spring-cloud-parent\server_consumer_feign\src\main\java\com\test\feign\config\RabbitmqConfig.java
+D:\workSpace\springCloud\spring-cloud-parent\server_consumer_feign\src\main\java\com\test\feign\controller\DataFeignController.java
