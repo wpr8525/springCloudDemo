@@ -2,7 +2,7 @@ server:
   port: 8001
 spring:
   application:
-    name: TEST-PROVIDER   #服务名称，随意取
+    name: server_provider_config   #服务名称，随意取
 
 ---
 spring:
@@ -11,7 +11,7 @@ spring:
       label: master
       server:
         git:
-          uri: "https://github: com/forezp/SpringcloudConfig/"
+          uri: "https://github.com/wpr8525/springCloudDemo.git"
           searchPaths: reo
 
 #          username:
