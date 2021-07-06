@@ -1,10 +1,10 @@
 
-  rabbitmq:
-    host: 127.0.0.1
-    port: 5672
-    username: guest
-    password: guest
+#  rabbitmq:
+#    host: 127.0.0.1
+#    port: 5672
+#    username: guest
+#    password: guest
 eureka:
   client:
     service-url:
-      defaultZone: http://127.0.0.1:8761/eureka #注册到Eureka的地址
+      defaultZone: http://127.0.0.1:8766/eureka #注册到Eureka的地址
